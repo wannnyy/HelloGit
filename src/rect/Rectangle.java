@@ -23,4 +23,8 @@ public class Rectangle {
 	public int getHeight() {
 		return height;
 	}
+	public void Hello()
+	{
+		System.out.println("Hello");
+	}
 }
